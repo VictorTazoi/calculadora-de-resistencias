@@ -1,0 +1,27 @@
+H:\Calculador de Resistências\CR06092021\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.csproj.AssemblyReference.cache
+H:\Calculador de Resistências\CR06092021\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.AssemblyInfoInputs.cache
+H:\Calculador de Resistências\CR06092021\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.AssemblyInfo.cs
+H:\Calculador de Resistências\CR06092021\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.csproj.CoreCompileInputs.cache
+H:\Calculador de Resistências\CR06092021\CR06092021\bin\Debug\netcoreapp3.1\CR06092021.exe
+H:\Calculador de Resistências\CR06092021\CR06092021\bin\Debug\netcoreapp3.1\CR06092021.deps.json
+H:\Calculador de Resistências\CR06092021\CR06092021\bin\Debug\netcoreapp3.1\CR06092021.runtimeconfig.json
+H:\Calculador de Resistências\CR06092021\CR06092021\bin\Debug\netcoreapp3.1\CR06092021.runtimeconfig.dev.json
+H:\Calculador de Resistências\CR06092021\CR06092021\bin\Debug\netcoreapp3.1\CR06092021.dll
+H:\Calculador de Resistências\CR06092021\CR06092021\bin\Debug\netcoreapp3.1\CR06092021.pdb
+H:\Calculador de Resistências\CR06092021\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.dll
+H:\Calculador de Resistências\CR06092021\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.pdb
+H:\Calculador de Resistências\CR06092021\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.genruntimeconfig.cache
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\bin\Debug\netcoreapp3.1\CR06092021.exe
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\bin\Debug\netcoreapp3.1\CR06092021.deps.json
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\bin\Debug\netcoreapp3.1\CR06092021.runtimeconfig.json
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\bin\Debug\netcoreapp3.1\CR06092021.runtimeconfig.dev.json
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\bin\Debug\netcoreapp3.1\CR06092021.dll
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\bin\Debug\netcoreapp3.1\CR06092021.pdb
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.AssemblyInfo.cs
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.dll
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.pdb
+C:\Users\victo\Downloads\ResistorCalculator-main\ResistorCalculator-main\CR06092021\obj\Debug\netcoreapp3.1\CR06092021.genruntimeconfig.cache
